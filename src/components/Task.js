@@ -11,7 +11,7 @@ const Task = () => {
         <p className="max-w-sm text-brown text-3xl mb-16">
           Use component &#8249;Task&#8250; to create layout
           and style.scss to write your css, additionaly you
-          can use Tailwind.CSS.
+          can use Tailwind CSS.
         </p>
         <p className="max-w-sm text-brown text-3xl mb-16">
           increas.io
