@@ -1,13 +1,9 @@
-.task {
-    display: flex;
-        align-items: center;
-        justify-items: center;
-        height: 90vh;
-        z-index: 1;
-        width: 100%;
-
-    img {
-        width: 100%;
-        height: 100%;
-    }
+.gradient {
+  position: absolute;
+  width: 770px;
+  bottom: -680px;
+  height: 700px;
+  background-image: radial-gradient(#f372a7 10% , #f36f8b 30%, #efbf9c 60%, transparent 70%);
+  transform: skewX(170deg);
+  filter: blur(40px);
 }
