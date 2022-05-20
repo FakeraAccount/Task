@@ -18,7 +18,7 @@ const Task = () => {
         </p>
       </div>
       <div className="basis-3/6 relative mt-20 ml-4">
-        <div className="absolute w-[44rem] h-[40rem] bottom-[-680px] gradient blur-xl skew-x-170 mb-96"></div>
+        <div className="gradient mb-96"></div>
       </div>
     </div>
   )
